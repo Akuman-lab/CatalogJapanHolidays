@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CatalogJapanHolidays:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CatalogJapanHolidays_jar</output-path>
+    <root id="archive" name="CatalogJapanHolidays.jar">
+      <element id="module-output" name="CatalogJapanHolidays" />
+    </root>
+  </artifact>
+</component>
